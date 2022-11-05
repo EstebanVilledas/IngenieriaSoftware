@@ -1,0 +1,6 @@
+1.- Por cuestiones de tiempo, desarrolle el sistema de forma muy sencilla.
+2- Las mejoras pueden ser: Crear las Collecciones y verificar las mismas con impresión de pantalla.
+3.- No ocupe todas las clases que aparecian en la presentacion debido a que no encontraba como conectarlas.
+4.- El sistema puede ser muy complejo, inclusive las peticiones pueden ser unicamnete por medio de submenús, pero,
+¿Qué pasa cuando llegan a subir una nueva función o micro servicio?, ¿Se be de volver a adecuar todo el codigo?
+5.- Parecia muy fácil, pero realmente me costo un poco de trabajo imaginarlo.
